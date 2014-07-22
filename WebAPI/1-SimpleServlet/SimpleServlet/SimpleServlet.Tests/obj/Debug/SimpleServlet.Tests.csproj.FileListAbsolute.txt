@@ -1,0 +1,15 @@
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet.Tests\bin\Debug\SimpleServlet.Tests.dll
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet.Tests\bin\Debug\SimpleServlet.Tests.pdb
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet.Tests\bin\Debug\SimpleServlet.dll
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet.Tests\bin\Debug\System.Web.Http.dll
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet.Tests\bin\Debug\SimpleServlet.pdb
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet.Tests\bin\Debug\System.Web.Http.xml
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet.Tests\obj\Debug\SimpleServlet.Tests.csprojResolveAssemblyReference.cache
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet.Tests\obj\Debug\SimpleServlet.Tests.dll
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet.Tests\obj\Debug\SimpleServlet.Tests.pdb

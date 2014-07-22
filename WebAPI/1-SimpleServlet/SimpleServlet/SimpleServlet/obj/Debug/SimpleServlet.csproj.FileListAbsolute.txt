@@ -1,0 +1,14 @@
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet\bin\SimpleServlet.dll.config
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet\bin\SimpleServlet.dll
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet\bin\SimpleServlet.pdb
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet\bin\Newtonsoft.Json.dll
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet\bin\System.Net.Http.Formatting.dll
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet\bin\System.Web.Http.dll
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet\bin\System.Web.Http.WebHost.dll
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet\bin\Newtonsoft.Json.xml
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet\bin\System.Net.Http.Formatting.xml
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet\bin\System.Web.Http.xml
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet\bin\System.Web.Http.WebHost.xml
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet\obj\Debug\SimpleServlet.csprojResolveAssemblyReference.cache
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet\obj\Debug\SimpleServlet.dll
+C:\Android\WebAPI\Week 1\1-SimpleServlet\SimpleServlet\SimpleServlet\obj\Debug\SimpleServlet.pdb
