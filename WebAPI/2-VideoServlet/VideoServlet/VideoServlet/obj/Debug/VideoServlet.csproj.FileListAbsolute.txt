@@ -1,0 +1,14 @@
+C:\Android\WebAPI\Week 1\2-VideoServlet\VideoServlet\VideoServlet\bin\VideoServlet.dll.config
+C:\Android\WebAPI\Week 1\2-VideoServlet\VideoServlet\VideoServlet\bin\VideoServlet.dll
+C:\Android\WebAPI\Week 1\2-VideoServlet\VideoServlet\VideoServlet\bin\VideoServlet.pdb
+C:\Android\WebAPI\Week 1\2-VideoServlet\VideoServlet\VideoServlet\bin\Newtonsoft.Json.dll
+C:\Android\WebAPI\Week 1\2-VideoServlet\VideoServlet\VideoServlet\bin\System.Net.Http.Formatting.dll
+C:\Android\WebAPI\Week 1\2-VideoServlet\VideoServlet\VideoServlet\bin\System.Web.Http.dll
+C:\Android\WebAPI\Week 1\2-VideoServlet\VideoServlet\VideoServlet\bin\System.Web.Http.WebHost.dll
+C:\Android\WebAPI\Week 1\2-VideoServlet\VideoServlet\VideoServlet\bin\Newtonsoft.Json.xml
+C:\Android\WebAPI\Week 1\2-VideoServlet\VideoServlet\VideoServlet\bin\System.Net.Http.Formatting.xml
+C:\Android\WebAPI\Week 1\2-VideoServlet\VideoServlet\VideoServlet\bin\System.Web.Http.xml
+C:\Android\WebAPI\Week 1\2-VideoServlet\VideoServlet\VideoServlet\bin\System.Web.Http.WebHost.xml
+C:\Android\WebAPI\Week 1\2-VideoServlet\VideoServlet\VideoServlet\obj\Debug\VideoServlet.csprojResolveAssemblyReference.cache
+C:\Android\WebAPI\Week 1\2-VideoServlet\VideoServlet\VideoServlet\obj\Debug\VideoServlet.dll
+C:\Android\WebAPI\Week 1\2-VideoServlet\VideoServlet\VideoServlet\obj\Debug\VideoServlet.pdb
