@@ -12,3 +12,17 @@ C:\Android\WebAPI\Week 1\2-VideoServlet\VideoServlet\VideoServlet\bin\System.Web
 C:\Android\WebAPI\Week 1\2-VideoServlet\VideoServlet\VideoServlet\obj\Debug\VideoServlet.csprojResolveAssemblyReference.cache
 C:\Android\WebAPI\Week 1\2-VideoServlet\VideoServlet\VideoServlet\obj\Debug\VideoServlet.dll
 C:\Android\WebAPI\Week 1\2-VideoServlet\VideoServlet\VideoServlet\obj\Debug\VideoServlet.pdb
+C:\Git_Repos\mobilecloud\WebAPI\2-VideoServlet\VideoServlet\VideoServlet\bin\VideoServlet.dll.config
+C:\Git_Repos\mobilecloud\WebAPI\2-VideoServlet\VideoServlet\VideoServlet\bin\VideoServlet.dll
+C:\Git_Repos\mobilecloud\WebAPI\2-VideoServlet\VideoServlet\VideoServlet\bin\VideoServlet.pdb
+C:\Git_Repos\mobilecloud\WebAPI\2-VideoServlet\VideoServlet\VideoServlet\bin\Newtonsoft.Json.dll
+C:\Git_Repos\mobilecloud\WebAPI\2-VideoServlet\VideoServlet\VideoServlet\bin\System.Net.Http.Formatting.dll
+C:\Git_Repos\mobilecloud\WebAPI\2-VideoServlet\VideoServlet\VideoServlet\bin\System.Web.Http.dll
+C:\Git_Repos\mobilecloud\WebAPI\2-VideoServlet\VideoServlet\VideoServlet\bin\System.Web.Http.WebHost.dll
+C:\Git_Repos\mobilecloud\WebAPI\2-VideoServlet\VideoServlet\VideoServlet\bin\Newtonsoft.Json.xml
+C:\Git_Repos\mobilecloud\WebAPI\2-VideoServlet\VideoServlet\VideoServlet\bin\System.Net.Http.Formatting.xml
+C:\Git_Repos\mobilecloud\WebAPI\2-VideoServlet\VideoServlet\VideoServlet\bin\System.Web.Http.xml
+C:\Git_Repos\mobilecloud\WebAPI\2-VideoServlet\VideoServlet\VideoServlet\bin\System.Web.Http.WebHost.xml
+C:\Git_Repos\mobilecloud\WebAPI\2-VideoServlet\VideoServlet\VideoServlet\obj\Debug\VideoServlet.csprojResolveAssemblyReference.cache
+C:\Git_Repos\mobilecloud\WebAPI\2-VideoServlet\VideoServlet\VideoServlet\obj\Debug\VideoServlet.dll
+C:\Git_Repos\mobilecloud\WebAPI\2-VideoServlet\VideoServlet\VideoServlet\obj\Debug\VideoServlet.pdb

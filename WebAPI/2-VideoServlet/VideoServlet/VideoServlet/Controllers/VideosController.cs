@@ -13,17 +13,21 @@ namespace VideoServlet.Controllers
         private List<Video> videos = new List<Video>();
 
         public const string VIDEO_ADDED = "Video added.";
+        public const string MISSING_DATA = "Missing ['id', 'name','duration','url'].";
 
-        public IEnumerable<Video> GetVideos()
+        public IHttpActionResult GetVideos()
         {
-            return videos;
+            return Ok(videos);
         }
 
         public IHttpActionResult PostVideo(Video video)
         {
+            if (video.Id == "" || video.Name == "" || video.Url == "" || video.Duration < 0)
+                return BadRequest(MISSING_DATA);
+
             videos.Add(video);
 
-            return CreatedAtRoute("DefaultApi", new { id = video.Id }, video);
+            return CreatedAtRoute("DefaultApi", new { id = video.Id }, VIDEO_ADDED);
         }
 
     }
