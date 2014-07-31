@@ -1,0 +1,15 @@
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit.Tests\obj\Debug\VideoControllerAndRetrofit.Tests.csprojResolveAssemblyReference.cache
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit.Tests\bin\Debug\VideoControllerAndRetrofit.Tests.dll
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit.Tests\bin\Debug\VideoControllerAndRetrofit.Tests.pdb
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit.Tests\bin\Debug\System.Web.Http.dll
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit.Tests\bin\Debug\VideoControllerAndRetrofit.dll
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit.Tests\bin\Debug\VideoControllerAndRetrofit.pdb
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit.Tests\bin\Debug\System.Web.Http.xml
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit.Tests\obj\Debug\VideoControllerAndRetrofit.Tests.dll
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit.Tests\obj\Debug\VideoControllerAndRetrofit.Tests.pdb

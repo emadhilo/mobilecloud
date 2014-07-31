@@ -1,0 +1,14 @@
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit\obj\Debug\VideoControllerAndRetrofit.csprojResolveAssemblyReference.cache
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit\bin\VideoControllerAndRetrofit.dll.config
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit\bin\VideoControllerAndRetrofit.dll
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit\bin\VideoControllerAndRetrofit.pdb
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit\bin\Newtonsoft.Json.dll
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit\bin\System.Net.Http.Formatting.dll
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit\bin\System.Web.Http.dll
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit\bin\System.Web.Http.WebHost.dll
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit\bin\Newtonsoft.Json.xml
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit\bin\System.Net.Http.Formatting.xml
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit\bin\System.Web.Http.xml
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit\bin\System.Web.Http.WebHost.xml
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit\obj\Debug\VideoControllerAndRetrofit.dll
+C:\Git_Repos\mobilecloud\WebAPI\3-VideoControllerAndRetrofit\VideoControllerAndRetrofit\VideoControllerAndRetrofit\obj\Debug\VideoControllerAndRetrofit.pdb
