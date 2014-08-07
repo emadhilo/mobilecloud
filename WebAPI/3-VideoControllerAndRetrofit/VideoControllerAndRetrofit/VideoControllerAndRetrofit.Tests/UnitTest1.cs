@@ -21,7 +21,6 @@ namespace VideoControllerAndRetrofit.Tests
 
             var controller = new VideoSvcController();
 
-
             bool ok = controller.Post(video);
             Assert.IsTrue(ok);
 

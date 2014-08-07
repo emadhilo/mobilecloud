@@ -35,13 +35,25 @@ namespace VideoControllerDependencyInjection.Controllers
             return controller.Get();
         }
 
-        public List<Video> Get(string id, string title)
+        [HttpGet]
+        public List<Video> Test(string scenario)
         {
-            switch (id) {
-                case "NoDuplicates":
+            switch (scenario)
+            {
+                case "NoDuplicates": //Path will be: /api/test/test?scenario=NoDuplicates
                     return NoDuplicates();
-                case "AllowDuplicates":
+                case "AllowDuplicates": // Path will be: /api/test/test?scenario=AllowDuplicates
                     return AllowDuplicates();
+                default:
+                    return Get();
+            }
+        }
+
+        [HttpGet]
+        public List<Video> Test(string scenario, string title)
+        {
+            switch (scenario)
+            {
                 case "Find":
                     return FindByName(title);
                 default:
@@ -60,7 +72,7 @@ namespace VideoControllerDependencyInjection.Controllers
             // Post another unique video to make sure a collection is returned.
             controller.Post(GenerateRandomVideo());
 
-            return controller.findByTitle(title);
+            return controller.Find(title);
         }
 
         private List<Video> NoDuplicates()

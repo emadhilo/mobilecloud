@@ -28,7 +28,8 @@ namespace VideoControllerDependencyInjection.Controllers
             return _videos.getVideos();
         }
 
-        public List<Video> findByTitle(string title)
+        [HttpGet]
+        public List<Video> Find(string title)
         {
             return _videos.findByTitle(title);
         }
