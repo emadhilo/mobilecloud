@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoControllerDependencyInjection", "VideoControllerDependencyInjection\VideoControllerDependencyInjection.csproj", "{F950CCD5-3281-4D53-AE69-34C177B37C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoControllerDependencyInjection.Tests", "VideoControllerDependencyInjection.Tests\VideoControllerDependencyInjection.Tests.csproj", "{EDA7D5DA-A4B6-4A6C-A1CA-351A18F35871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F950CCD5-3281-4D53-AE69-34C177B37C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F950CCD5-3281-4D53-AE69-34C177B37C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F950CCD5-3281-4D53-AE69-34C177B37C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F950CCD5-3281-4D53-AE69-34C177B37C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA7D5DA-A4B6-4A6C-A1CA-351A18F35871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA7D5DA-A4B6-4A6C-A1CA-351A18F35871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA7D5DA-A4B6-4A6C-A1CA-351A18F35871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA7D5DA-A4B6-4A6C-A1CA-351A18F35871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
