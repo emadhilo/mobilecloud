@@ -23,11 +23,13 @@ namespace VideoControllerWithJpa.Controllers
             return _videos.addVideo(video);
         }
 
+        //Path will be: /api/video
         public List<Video> Get()
         {
             return _videos.getVideos();
         }
 
+        //Path will be: /api/video/find?title=....
         [HttpGet]
         public List<Video> Find(string title)
         {

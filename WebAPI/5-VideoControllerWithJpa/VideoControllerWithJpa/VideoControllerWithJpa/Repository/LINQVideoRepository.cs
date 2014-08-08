@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Data.Linq;
 using System.Web;
-using VideoControllerWithJpa.Data;
 using VideoControllerWithJpa.Models;
+using System.Configuration;
 
 namespace VideoControllerWithJpa.Repository
 {
@@ -14,7 +14,7 @@ namespace VideoControllerWithJpa.Repository
 
         public LINQVideoRepository()
         {
-            _db = new MyVideoDatabase();
+            _db = new MyVideoDatabase(ConfigurationManager.ConnectionStrings["test"].ConnectionString);
         }
 
         public bool addVideo(Video v)
@@ -27,7 +27,7 @@ namespace VideoControllerWithJpa.Repository
 
         public List<Video> getVideos()
         {
-            return _db.Videos.ToList();
+            return _db.Videos.ToList<Video>();
         }
 
         public List<Video> findByName(string title)

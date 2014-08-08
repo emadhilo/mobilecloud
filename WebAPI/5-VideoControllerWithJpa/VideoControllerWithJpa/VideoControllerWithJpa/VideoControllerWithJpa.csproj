@@ -94,9 +94,10 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\TestController.cs" />
     <Compile Include="Controllers\VideoController.cs" />
-    <Compile Include="Data\LINQVideoRepository.cs" />
-    <Compile Include="Data\IVideoRepository.cs" />
-    <Compile Include="Data\MyVideoDatabase.cs" />
+    <Compile Include="Repository\InMemoryVideoRepository.cs" />
+    <Compile Include="Repository\LINQVideoRepository.cs" />
+    <Compile Include="Repository\IVideoRepository.cs" />
+    <Compile Include="Repository\MyVideoDatabase.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
