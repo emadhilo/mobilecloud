@@ -16,9 +16,9 @@ namespace VideoServiceWithOAuth2.Tests
     public class IntegrationTest
     {
         // Before running these tests:
-        // 1. Check properties on the VideoServiceWithSpringSecurity project and make sure that SSEnabled = true
+        // 1. Check properties on the VideoServiceWithOAuth2 project and make sure that SSEnabled = true
         // 2. Set the _httpsURL variable below to the appropriate url/port that's used (the SSL URL will be shown in the properties).
-        // 3. Right click the VideoServiceWithSpringSecurity project and select View in Browser to start up the service.
+        // 3. Right click the VideoServiceWithOAuth2 project and select View in Browser to start up the service.
 
         private string _httpsURL = "https://localhost:44301/";
 
