@@ -52,7 +52,6 @@ namespace VideoServiceWithOAuth2.Providers
                 foreach (var role in roles)
                 {
                     ci.AddClaim(new Claim(ClaimTypes.Role, role));
-                    ci.AddClaim(new Claim("urn:oauth:scope", role));
                 }
 
                 context.Validated(ci);
