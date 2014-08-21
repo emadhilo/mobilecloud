@@ -42,7 +42,10 @@ namespace VideoControllerDependencyInjection.Models
             var other = obj as Video;
             if (other != null)
             {
-                return other.name.Equals(name) && other.url.Equals(url) && other.duration.Equals(duration);
+                if (other.name == null || other.url == null || this.name == null || this.url == null)
+                    return false;
+                else
+                    return other.name.Equals(name) && other.url.Equals(url) && other.duration.Equals(duration);
             }
             else
             {
